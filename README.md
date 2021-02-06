@@ -70,7 +70,7 @@
 	</a> 
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
       width="40"
       height="40"
@@ -110,7 +110,7 @@
   </a>
   <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="C Sharp"
       width="40"
       height="40"
