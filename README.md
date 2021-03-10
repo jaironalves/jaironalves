@@ -46,7 +46,7 @@
 	</a>
   <a href="https://aws.amazon.com" target="_blank">
 		<img 
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"      
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"      
       alt="aws" 
       width="40" 
       height="40"
