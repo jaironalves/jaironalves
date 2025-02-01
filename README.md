@@ -22,11 +22,9 @@
 
 <br />
 
-- 🌱 I’m currently learning **Kubernetes, Docker, AWS, Azure, Next.JS**
+- 🌱 I’m currently learning **Python, Clojure, Next.JS**
 
-- 👯 I’m looking to collaborate on [Material-UI](https://material-ui.com/)
-
-- 💬 Ask me about **JavaScript, React.JS, C#, Docker, Material-UI, HTML, SQL**
+- 💬 Ask me about **JavaScript, React.JS, C#, Docker, Material-UI, HTML, SQL, AWS**
 
 - 📫 How to reach me **jairon.alves.lima@gmail.com**
 
