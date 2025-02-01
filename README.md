@@ -22,7 +22,7 @@
 
 <br />
 
-- 🌱 I’m currently learning **Python, Clojure, Next.JS**
+- 🌱 I’m currently learning **Python, Clojure**
 
 - 💬 Ask me about **JavaScript, React.JS, C#, Docker, Material-UI, HTML, SQL, AWS**
 
